@@ -6,4 +6,4 @@ For details of the command line arguments, type:
 >> python modelscattering.py -h
 
 An example command would be as follows:
->> python modelscattering.py -f <filename of data> -r <folder containing data> -w <folder to write output to> -m <method: iso or onedim, default is iso> -passfaillog <name of log for success/failure of model> -noshow
+>> python modelscattering.py -f (filename of data) -r (folder containing data) -w (folder to write output to) -m (method: iso or onedim, default is iso) -passfaillog (name of log for success/failure of model) -noshow
